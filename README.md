@@ -4,4 +4,4 @@
 * There is also a score window which is displayed after every turn.
 
 ### Example Game:
-![Game](https://i.postimg.cc/7Y2TJsVJ/Capture.png)
+![Screenshot 09-08-2023 16_54_23](https://github.com/Rahul-Dade/Rock-Paper-Scissor/assets/91328026/22b34516-2c98-407e-9c10-0f48dc97e56e)
